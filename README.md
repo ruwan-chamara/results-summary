@@ -3,4 +3,4 @@
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV).
 
 <h2>ruwan-chamara</h2>
-<h3>frontend mmento chalange 2</h3>
+<h3>frontend mentor challenge 2</h3>
